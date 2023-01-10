@@ -1,5 +1,5 @@
 <?php
-$to      = 'sdfadasgg@gmail.com';
+$to      = 'email@gmail.com';
 $subject = 'Был сделан заказ!';
 $message = 'Я, ' . $_POST['name'] . ', сделал заказ на сумму ' . $_POST['totalZakazCost'] . ' ₽.';
 $headers = 'От: ' . $_POST['email'];;
