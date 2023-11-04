@@ -6,6 +6,6 @@
         "package-lock.json": true,
         "package.json": true
     },
-    "phpserver.phpPath": "D:\\Programs\\Programming\\Web\\PHP 8.0\\php.exe",
-    "phpserver.phpConfigPath": "D:\\Programs\\Programming\\Web\\PHP 8.0\\php.ini"
+    "phpserver.phpPath": "D:\\Programs\\php\\php.exe",
+    "phpserver.phpConfigPath": "D:\\Programs\\php\\php.ini"
 }

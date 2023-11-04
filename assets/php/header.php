@@ -19,7 +19,7 @@
             ?>
                 <li><a href="admin.php" class="iconed-link"><span class="login"></span>AdminChad</a></li>
             <?php else : ?>
-                <li><a href="login.php" class="iconed-link"><span class="login"></span>AdminChad</a></li>
+                <li><a href="login.php" class="iconed-link"><span class="login"></span>Войти</a></li>
             <?php endif; ?>
             <li>
                 <a href="cart.php" class="iconed-link"><span class="cart"></span>Корзина

@@ -10,7 +10,7 @@
                 <?php
                 if (isset($_COOKIE["PHPSESSID"])) :
                 ?>
-                    <li><a href="admin.php">AdminChad</a></li>
+                    <li><a href="admin.php">Админка</a></li>
                 <?php else : ?>
                     <li><a href="login.php">Вход</a></li>
                 <?php endif; ?>
@@ -18,8 +18,8 @@
             </ul>
         </div>
         <div class="contacts">
-            <p><a href="tel:+79181594956">+7 (918) 159-49-56</a></p>
-            <p>г. Краснодар, ул. Сормовская 19</p>
+            <p><a href="tel:+78005553535">+7 (800) 555-35-35</a></p>
+            <p>г. Краснодар, ул. Сормовская 800</p>
         </div>
         <div class="right-side">
             <div class="media-container">
