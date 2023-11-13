@@ -26,6 +26,8 @@ if (isset($_SESSION['adminLogged'])) {
         header("Location: /admin.php");
         die();
     } else {
+        session_destroy();
+        setcookie('PHPSESSID', null, -1, '/');
         header("Location: /login.php");
         die();
     }

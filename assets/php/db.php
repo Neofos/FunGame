@@ -1,8 +1,8 @@
 <?php
 
-$user = 'sql11659273';
-$password = '17Yk5CAuUE';
-$db = 'sql11659273';
+$user = 'sql11661537';
+$password = 'CNHc7tX3VD';
+$db = 'sql11661537';
 $host = 'sql11.freemysqlhosting.net';
 $charset = 'utf8';
 
